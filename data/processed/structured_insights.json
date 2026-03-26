@@ -1,0 +1,175 @@
+{
+  "summary": {
+    "total_reviews": 1751,
+    "generated_at": "2026-03-26T15:03:54.171547Z"
+  },
+  "segments": [
+    {
+      "segment": "Claims",
+      "review_count": 89,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 5,
+        "negative": 34
+      },
+      "nps": {
+        "promoters": 37,
+        "passives": 18,
+        "detractors": 34,
+        "score": 3
+      },
+      "themes": {
+        "positive": [
+          {
+            "theme": "Clear process",
+            "count": 15,
+            "example": "I haven't needed to make a claim but\u2026"
+          },
+          {
+            "theme": "Fast payout",
+            "count": 10,
+            "example": "Competitive first rate cover"
+          },
+          {
+            "theme": "Helpful claims handlers",
+            "count": 4,
+            "example": "Recent claim experience"
+          }
+        ],
+        "negative": [
+          {
+            "theme": "Slow updates",
+            "count": 4,
+            "example": "Terrible delays and service"
+          },
+          {
+            "theme": "Documentation burden",
+            "count": 3,
+            "example": "HomeProtect's aim is to avoid paying"
+          },
+          {
+            "theme": "Claim rejection frustration",
+            "count": 2,
+            "example": "Everything went wrong"
+          }
+        ]
+      }
+    },
+    {
+      "segment": "Customer Service",
+      "review_count": 343,
+      "sentiment": {
+        "positive": 280,
+        "neutral": 7,
+        "negative": 56
+      },
+      "nps": {
+        "promoters": 246,
+        "passives": 41,
+        "detractors": 56,
+        "score": 55
+      },
+      "themes": {
+        "positive": [
+          {
+            "theme": "Helpful guidance",
+            "count": 93,
+            "example": "Ending Contract."
+          },
+          {
+            "theme": "Friendly staff",
+            "count": 50,
+            "example": "Absolutely recommend this company"
+          },
+          {
+            "theme": "Easy contact",
+            "count": 22,
+            "example": "Easy to use website"
+          }
+        ],
+        "negative": [
+          {
+            "theme": "Callback delays",
+            "count": 6,
+            "example": "Shockingly poor treatment \u2013 policy voided without notice after months of delay"
+          },
+          {
+            "theme": "Inconsistent answers",
+            "count": 2,
+            "example": "Never again! Brilliant customer service when setting up a policy. I have been with this company for years but not a single claim goes through -regardless the cost, or job! When the"
+          },
+          {
+            "theme": "Poor communication",
+            "count": 1,
+            "example": "Very threatening letter"
+          }
+        ]
+      }
+    },
+    {
+      "segment": "Pricing",
+      "review_count": 1319,
+      "sentiment": {
+        "positive": 1253,
+        "neutral": 22,
+        "negative": 44
+      },
+      "nps": {
+        "promoters": 1069,
+        "passives": 206,
+        "detractors": 44,
+        "score": 78
+      },
+      "themes": {
+        "positive": [
+          {
+            "theme": "Easy quote journey",
+            "count": 656,
+            "example": "Straightforward website"
+          },
+          {
+            "theme": "Competitive quotes",
+            "count": 158,
+            "example": "Home Protect were a lot cheaper for my\u2026"
+          },
+          {
+            "theme": "Good value cover",
+            "count": 111,
+            "example": "i got what I wanted at a reasonable\u2026"
+          }
+        ],
+        "negative": [
+          {
+            "theme": "Renewal increase",
+            "count": 21,
+            "example": "Don\u2019t use Homeprotect shocking service and price increases with zero justification\u2026patronising sales people who talk down to you"
+          },
+          {
+            "theme": "Fee confusion",
+            "count": 6,
+            "example": "Nothing short of a rip off"
+          },
+          {
+            "theme": "Expensive pricing",
+            "count": 1,
+            "example": "Very expensive Very expensive, only renewed due to auto-renew!"
+          }
+        ]
+      }
+    }
+  ],
+  "outliers": [
+    {
+      "title": "Bundle confusion across journeys",
+      "segment": "Cross-Segment",
+      "sentiment": "negative",
+      "detail": "Several reviews blended pricing and service complaints, suggesting the journey boundaries feel unclear to customers."
+    },
+    {
+      "title": "Cancellation friction",
+      "segment": "Customer Service",
+      "sentiment": "negative",
+      "detail": "A visible cluster mentioned difficulty when trying to cancel or change cover."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "files": [
+    {
+      "filename": "homeprotect_reviews.csv",
+      "sha256": "5aef2c16e926619c08e46431b801db481d73d94b4be5693c9a68b805d0f8fd28",
+      "processed_at": "2026-03-26T15:03:54.189303+00:00",
+      "output_file": "structured_insights.json",
+      "status": "processed"
+    }
+  ]
+}

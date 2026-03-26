@@ -1,0 +1,145 @@
+{
+  "summary": {
+    "total_reviews": 180,
+    "generated_at": "2026-03-22T15:00:00Z"
+  },
+  "segments": [
+    {
+      "segment": "Claims",
+      "review_count": 70,
+      "sentiment": {
+        "positive": 28,
+        "neutral": 10,
+        "negative": 32
+      },
+      "nps": {
+        "promoters": 24,
+        "passives": 14,
+        "detractors": 32,
+        "score": -11
+      },
+      "themes": {
+        "positive": [
+          {
+            "theme": "Fast payout",
+            "count": 15,
+            "example": "The claim was settled quickly and without hassle."
+          },
+          {
+            "theme": "Helpful claims handlers",
+            "count": 10,
+            "example": "The adviser explained the process clearly."
+          }
+        ],
+        "negative": [
+          {
+            "theme": "Slow updates",
+            "count": 16,
+            "example": "I kept chasing for progress and heard nothing for days."
+          },
+          {
+            "theme": "Documentation burden",
+            "count": 12,
+            "example": "Too many follow-up documents were requested."
+          }
+        ]
+      }
+    },
+    {
+      "segment": "Customer Service",
+      "review_count": 60,
+      "sentiment": {
+        "positive": 34,
+        "neutral": 12,
+        "negative": 14
+      },
+      "nps": {
+        "promoters": 29,
+        "passives": 16,
+        "detractors": 15,
+        "score": 24
+      },
+      "themes": {
+        "positive": [
+          {
+            "theme": "Friendly staff",
+            "count": 18,
+            "example": "The support team were polite and reassuring."
+          },
+          {
+            "theme": "Easy contact",
+            "count": 11,
+            "example": "Got through quickly and my issue was sorted."
+          }
+        ],
+        "negative": [
+          {
+            "theme": "Callback delays",
+            "count": 8,
+            "example": "I waited longer than promised for a reply."
+          },
+          {
+            "theme": "Inconsistent answers",
+            "count": 6,
+            "example": "Different agents gave me different information."
+          }
+        ]
+      }
+    },
+    {
+      "segment": "Pricing",
+      "review_count": 50,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 8,
+        "negative": 22
+      },
+      "nps": {
+        "promoters": 16,
+        "passives": 12,
+        "detractors": 22,
+        "score": -12
+      },
+      "themes": {
+        "positive": [
+          {
+            "theme": "Competitive quotes",
+            "count": 12,
+            "example": "The premium was better than other providers."
+          },
+          {
+            "theme": "Good value cover",
+            "count": 7,
+            "example": "The level of cover felt worth the price."
+          }
+        ],
+        "negative": [
+          {
+            "theme": "Renewal increase",
+            "count": 13,
+            "example": "The renewal jumped far more than expected."
+          },
+          {
+            "theme": "Fee confusion",
+            "count": 9,
+            "example": "Extra charges were not obvious at the start."
+          }
+        ]
+      }
+    }
+  ],
+  "outliers": [
+    {
+      "title": "Praise for fraud checks",
+      "segment": "Claims",
+      "sentiment": "positive",
+      "detail": "A small but vocal group saw strict verification as a trust signal rather than friction."
+    },
+    {
+      "title": "Bundle confusion across journeys",
+      "segment": "Cross-Segment",
+      "sentiment": "negative",
+      "detail": "Several reviews mixed pricing complaints with Service complaints because the customer journey boundaries were unclear."
+    }
+  ]
+}

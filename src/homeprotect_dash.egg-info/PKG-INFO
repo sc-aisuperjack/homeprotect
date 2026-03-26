@@ -1,3 +1,25 @@
+Metadata-Version: 2.4
+Name: homeprotect-dash
+Version: 0.2.0
+Summary: Agentic Homeprotect review intelligence dashboard built with Dash and Google ADK patterns
+Author: Stefanos Cunning
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: dash==3.2.0
+Requires-Dist: plotly==6.3.0
+Requires-Dist: pandas==2.3.2
+Requires-Dist: pydantic==2.11.7
+Requires-Dist: python-dateutil==2.9.0.post0
+Requires-Dist: python-dotenv==1.2.2
+Requires-Dist: google-adk==1.26.0
+Provides-Extra: dev
+Requires-Dist: pytest==8.4.1; extra == "dev"
+Requires-Dist: pytest-cov==6.2.1; extra == "dev"
+Requires-Dist: ruff==0.12.7; extra == "dev"
+Requires-Dist: mypy==1.16.1; extra == "dev"
+Dynamic: license-file
+
 # Homeprotect Review Intelligence
 
 A lean, end-to-end submission for the Homeprotect AI take-home task.
